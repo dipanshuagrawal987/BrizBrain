@@ -1,0 +1,90 @@
+.header{
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    padding: 20px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: transparent;
+
+}
+.name{
+    font-size: 30px;
+    color: rgb(228, 179, 209);
+    font-weight: 800;
+    float:inline-start;
+    text-decoration: none;
+}
+.navbar a{
+    font-size: 30px;
+    display: inline-flex;
+    color: rgb(255, 231, 238);
+    text-decoration: none;
+    margin-right: 35px;
+    transition: .2s;
+    font-weight: 500;
+    padding-inline-end: 15px;
+    
+}
+.navbar a:hover,.navbar a.active
+{
+    color: #c15efb;
+}
+/* Apply a full-page background image */
+body {
+    margin: 0;
+    padding: 0;
+    font: 1em Open Hans;
+    height: 100vh;
+    background-image: url('bgimage.png'); /* Replace with your image path */
+    background-size: cover;
+    background-position: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.container {
+    text-align: center;
+    height: 50%;
+    position: absolute;
+    bottom: 0;
+    color: #fefefe;
+    transform:translateY(300px);
+}
+
+.login-btn {
+    padding: 15px 30px;
+    width: 200px;
+    height: 60px;
+    font-size: 26px;
+    color: #070000;
+    background-color: #ffffff; /* Button color */
+    border: none;
+    border-radius: 20px;
+    cursor: pointer;
+    margin-bottom: 10px; /* Space between button and link */
+    transition: background-color 0.3s ease;
+}
+
+.login-btn:hover {
+    background-color:transparent;
+    color: rgb(144, 35, 253); /* Darker shade on hover */
+    border: #c15efb 2px solid;
+}
+
+.signup-text {
+    margin: 0;
+    font-size: 30px;
+}
+
+.signup-text a {
+    color: #ab04ff; /* Color for the sign-up link */
+    text-decoration: underline;
+}
+
+.signup-text a:hover {
+    color: #ddd; /* Color for the sign-up link on hover */
+}
