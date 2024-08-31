@@ -1,0 +1,501 @@
+Project Title,AI/ML,Remote Sensing,IoT,Embedded Systems,Data Analysis,Data Science,Environmental Science,Blockchain,Security,Medical Imaging,Robotics,Game Development,3D Modeling
+Automated Crater Detection System,0,0,0,0,1,0,0,0,1,0,0,0,0
+Smart Home Automation,0,0,0,0,0,0,1,0,0,0,0,0,1
+Sentiment Analysis of Social Media,0,0,0,1,0,0,0,0,0,1,0,0,0
+Climate Change Impact Prediction,0,0,0,0,1,0,0,0,0,1,0,0,0
+Blockchain-Based Voting System,0,0,0,0,0,1,0,0,1,0,0,0,0
+Disease Diagnosis using X-rays,0,1,0,0,0,0,0,0,0,0,0,1,0
+Autonomous Drone Navigation,0,0,0,0,0,0,1,0,0,0,1,0,0
+Financial Fraud Detection,0,0,0,0,0,0,0,0,0,0,1,1,0
+Virtual Reality Game Development,0,1,0,0,1,0,0,0,0,0,0,0,0
+Smart Traffic Management System,0,0,0,1,1,0,0,0,0,0,0,0,0
+Predictive Maintenance in Manufacturing,0,0,1,0,0,0,0,0,0,1,0,0,0
+Renewable Energy Forecasting,1,0,0,0,1,0,0,0,0,0,0,0,0
+Smart Agriculture Using Drones,0,0,0,1,0,0,0,1,0,0,0,0,0
+Real-Time Facial Recognition System,1,0,0,0,0,0,0,0,0,0,0,1,0
+AI-Powered Customer Support Chatbots,0,1,0,0,0,0,0,0,0,1,0,0,0
+Cybersecurity Threat Detection,0,0,1,0,0,0,0,0,0,0,0,1,0
+3D Printed Prosthetics,0,0,0,0,0,1,0,0,0,0,1,0,0
+Social Network Analysis,0,0,0,0,0,0,0,1,1,0,0,0,0
+Remote Health Monitoring System,0,0,0,0,0,0,0,1,1,0,0,0,0
+Smart Irrigation System,0,0,0,1,0,0,0,0,0,0,0,1,0
+Urban Air Quality Monitoring,0,0,0,0,0,0,0,0,0,0,1,1,0
+Autonomous Vehicle Navigation,0,0,0,0,0,1,0,0,0,0,0,0,1
+Voice-Controlled Virtual Assistant,0,0,0,0,1,0,0,0,1,0,0,0,0
+AI for Stock Market Prediction,0,0,1,0,0,0,0,1,0,0,0,0,0
+Smart Waste Management,0,0,0,0,1,0,0,0,0,1,0,0,0
+Smart Energy Grids,0,0,0,0,1,0,1,0,0,0,0,0,0
+Fire Detection and Prevention System,1,0,0,0,0,1,0,0,0,0,0,0,0
+Personalized Learning Platforms,0,1,0,0,0,0,0,0,1,0,0,0,0
+Brain-Computer Interface for Disabled,0,0,0,0,1,0,0,0,0,0,0,0,1
+Indoor Positioning System,0,0,0,1,0,0,0,0,0,1,0,0,0
+Disaster Response and Management Using AI,0,0,0,0,0,0,0,0,1,0,1,0,0
+AI-Powered Language Translation Tools,1,0,0,0,0,0,1,0,0,0,0,0,0
+Predictive Policing Models,0,0,0,1,1,0,0,0,0,0,0,0,0
+Smart Grid Cybersecurity,0,0,0,0,0,0,0,1,0,0,0,0,1
+AI-Driven Product Recommendations,0,0,0,1,1,0,0,0,0,0,0,0,0
+Forest Fire Prediction Models,0,0,0,0,0,0,0,0,1,0,1,0,0
+Real-Time Gesture Recognition,0,0,1,0,0,0,0,0,1,0,0,0,0
+Wildlife Tracking Using GPS,0,0,0,1,0,0,0,0,0,1,0,0,0
+Machine Vision for Quality Control,0,0,0,0,0,0,0,1,1,0,0,0,0
+AI-Enhanced Medical Diagnostics,0,0,0,0,1,0,0,0,0,0,1,0,0
+Industrial Robot Automation,0,0,0,0,0,1,1,0,0,0,0,0,0
+Crop Disease Detection Using Image Analysis,1,1,0,0,0,0,0,0,0,0,0,0,0
+Predictive Text Generation,0,0,0,1,0,1,0,0,0,0,0,0,0
+Autonomous Warehouse Management,0,0,0,1,0,0,1,0,0,0,0,0,0
+Wearable Health Monitoring Devices,0,1,0,0,1,0,0,0,0,0,0,0,0
+AI for Legal Document Analysis,0,0,0,0,1,0,0,0,1,0,0,0,0
+Financial Risk Management Using AI,1,0,0,0,0,1,0,0,0,0,0,0,0
+Food Quality Monitoring System,0,0,0,1,0,0,0,0,0,0,1,0,0
+Edge Computing for Smart Devices,0,1,0,1,0,0,0,0,0,0,0,0,0
+AI-Driven Wildlife Conservation Strategies,1,0,1,0,0,0,0,0,0,0,0,0,0
+Smart Retail Systems,0,0,0,0,0,0,0,1,0,0,0,0,1
+Automated Crater Detection System,0,0,0,0,0,1,0,0,0,0,0,0,1
+Smart Home Automation,0,0,0,0,1,0,0,0,1,0,0,0,0
+Sentiment Analysis of Social Media,0,0,0,0,1,0,0,0,0,0,0,0,1
+Climate Change Impact Prediction,0,0,0,0,0,0,0,0,0,0,1,0,1
+Blockchain-Based Voting System,0,1,0,0,0,0,0,0,0,0,0,0,1
+Disease Diagnosis using X-rays,0,0,0,0,1,0,0,0,0,1,0,0,0
+Autonomous Drone Navigation,0,0,1,0,0,0,0,0,0,0,1,0,0
+Financial Fraud Detection,1,0,0,0,0,0,0,0,0,0,0,1,0
+Virtual Reality Game Development,1,0,1,0,0,0,0,0,0,0,0,0,0
+Smart Traffic Management System,0,0,1,0,0,0,0,0,0,0,0,0,1
+Predictive Maintenance in Manufacturing,0,0,0,0,0,0,0,0,1,0,0,0,1
+Renewable Energy Forecasting,0,0,0,0,0,0,1,1,0,0,0,0,0
+Smart Agriculture Using Drones,0,0,0,1,0,0,0,0,0,1,0,0,0
+Real-Time Facial Recognition System,0,0,0,0,1,0,0,1,0,0,0,0,0
+AI-Powered Customer Support Chatbots,0,0,0,0,0,0,0,1,1,0,0,0,0
+Cybersecurity Threat Detection,0,0,0,1,0,0,0,0,0,1,0,0,0
+3D Printed Prosthetics,0,1,0,0,0,0,0,1,0,0,0,0,0
+Social Network Analysis,1,0,0,0,0,0,0,0,0,0,0,0,1
+Remote Health Monitoring System,0,0,0,0,1,0,0,0,0,0,1,0,0
+Smart Irrigation System,0,0,0,0,1,1,0,0,0,0,0,0,0
+Urban Air Quality Monitoring,0,0,0,0,0,0,0,0,0,0,1,0,1
+Autonomous Vehicle Navigation,0,0,0,1,0,0,0,1,0,0,0,0,0
+Voice-Controlled Virtual Assistant,0,0,0,1,1,0,0,0,0,0,0,0,0
+AI for Stock Market Prediction,1,0,0,0,0,1,0,0,0,0,0,0,0
+Smart Waste Management,0,1,0,0,0,0,0,1,0,0,0,0,0
+Smart Energy Grids,0,0,0,0,0,1,0,1,0,0,0,0,0
+Fire Detection and Prevention System,0,0,0,0,0,0,0,1,0,0,0,0,1
+Personalized Learning Platforms,0,0,0,1,0,0,0,0,0,0,0,1,0
+Brain-Computer Interface for Disabled,0,1,0,0,0,0,0,0,0,0,1,0,0
+Indoor Positioning System,0,1,0,0,0,0,0,0,1,0,0,0,0
+Disaster Response and Management Using AI,0,0,0,0,0,1,0,0,0,0,0,0,1
+AI-Powered Language Translation Tools,0,0,0,0,0,0,1,1,0,0,0,0,0
+Predictive Policing Models,0,0,0,1,0,0,0,0,0,1,0,0,0
+Smart Grid Cybersecurity,0,0,0,0,0,0,0,0,0,0,1,1,0
+AI-Driven Product Recommendations,0,1,0,0,0,0,0,0,0,1,0,0,0
+Forest Fire Prediction Models,0,1,0,0,0,0,1,0,0,0,0,0,0
+Real-Time Gesture Recognition,0,0,0,1,0,0,0,0,0,0,1,0,0
+Wildlife Tracking Using GPS,1,0,0,0,0,0,0,0,0,0,0,0,1
+Machine Vision for Quality Control,0,0,0,0,0,0,1,0,0,0,0,1,0
+AI-Enhanced Medical Diagnostics,0,1,0,0,0,0,0,0,0,0,0,0,1
+Industrial Robot Automation,0,0,1,0,1,0,0,0,0,0,0,0,0
+Crop Disease Detection Using Image Analysis,0,0,0,0,0,0,0,0,1,0,0,1,0
+Predictive Text Generation,0,0,0,0,1,0,1,0,0,0,0,0,0
+Autonomous Warehouse Management,1,0,0,0,0,0,0,0,0,0,0,0,1
+Wearable Health Monitoring Devices,1,0,0,1,0,0,0,0,0,0,0,0,0
+AI for Legal Document Analysis,0,1,0,0,0,0,0,0,0,0,0,0,1
+Financial Risk Management Using AI,0,1,0,0,0,1,0,0,0,0,0,0,0
+Food Quality Monitoring System,1,0,0,0,0,0,0,0,0,0,0,1,0
+Edge Computing for Smart Devices,0,0,1,0,0,0,0,0,0,0,1,0,0
+AI-Driven Wildlife Conservation Strategies,0,0,0,0,0,0,1,0,0,0,1,0,0
+Smart Retail Systems,0,0,0,0,0,1,0,0,0,0,1,0,0
+Automated Crater Detection System,1,0,0,0,1,0,0,0,0,0,0,0,0
+Smart Home Automation,0,0,0,0,0,0,1,0,0,0,0,0,1
+Sentiment Analysis of Social Media,0,1,0,0,0,0,0,0,0,1,0,0,0
+Climate Change Impact Prediction,0,0,0,0,1,0,1,0,0,0,0,0,0
+Blockchain-Based Voting System,0,0,0,0,0,0,1,1,0,0,0,0,0
+Disease Diagnosis using X-rays,0,0,1,0,0,0,0,0,0,1,0,0,0
+Autonomous Drone Navigation,1,0,0,0,0,0,0,0,0,1,0,0,0
+Financial Fraud Detection,0,0,0,0,0,0,0,0,1,0,1,0,0
+Virtual Reality Game Development,0,0,0,1,0,1,0,0,0,0,0,0,0
+Smart Traffic Management System,0,0,0,0,1,0,1,0,0,0,0,0,0
+Predictive Maintenance in Manufacturing,0,0,0,0,0,0,0,1,0,1,0,0,0
+Renewable Energy Forecasting,1,0,0,0,1,0,0,0,0,0,0,0,0
+Smart Agriculture Using Drones,0,0,1,0,0,0,0,0,0,0,0,1,0
+Real-Time Facial Recognition System,0,1,0,0,1,0,0,0,0,0,0,0,0
+AI-Powered Customer Support Chatbots,0,0,0,0,0,0,1,0,0,0,1,0,0
+Cybersecurity Threat Detection,0,0,0,1,0,0,0,0,0,0,0,1,0
+3D Printed Prosthetics,0,0,1,0,0,0,0,0,1,0,0,0,0
+Social Network Analysis,0,0,0,0,0,1,0,0,0,0,0,1,0
+Remote Health Monitoring System,0,0,0,0,0,0,0,1,0,0,0,1,0
+Smart Irrigation System,0,0,0,0,0,0,0,0,1,0,0,0,1
+Urban Air Quality Monitoring,0,0,1,0,0,0,0,0,0,1,0,0,0
+Autonomous Vehicle Navigation,1,0,0,0,0,0,0,0,0,0,0,0,1
+Voice-Controlled Virtual Assistant,0,0,0,0,0,0,1,0,0,0,0,1,0
+AI for Stock Market Prediction,0,0,1,0,0,0,0,0,0,0,1,0,0
+Smart Waste Management,0,0,0,1,0,1,0,0,0,0,0,0,0
+Smart Energy Grids,0,0,0,0,0,0,1,1,0,0,0,0,0
+Fire Detection and Prevention System,0,0,0,1,0,0,0,0,0,0,0,0,1
+Personalized Learning Platforms,1,0,1,0,0,0,0,0,0,0,0,0,0
+Brain-Computer Interface for Disabled,0,0,0,0,0,0,0,1,0,0,1,0,0
+Indoor Positioning System,0,0,0,0,0,1,0,0,0,0,0,0,1
+Disaster Response and Management Using AI,0,1,0,0,0,0,0,0,1,0,0,0,0
+AI-Powered Language Translation Tools,1,0,1,0,0,0,0,0,0,0,0,0,0
+Predictive Policing Models,1,0,0,0,0,0,1,0,0,0,0,0,0
+Smart Grid Cybersecurity,0,0,1,0,0,0,0,0,0,0,1,0,0
+AI-Driven Product Recommendations,0,0,1,0,0,0,1,0,0,0,0,0,0
+Forest Fire Prediction Models,0,0,0,1,0,0,0,0,0,1,0,0,0
+Real-Time Gesture Recognition,0,0,0,0,0,0,0,1,0,0,1,0,0
+Wildlife Tracking Using GPS,0,0,0,0,0,0,0,0,0,0,0,1,1
+Machine Vision for Quality Control,0,0,0,0,1,1,0,0,0,0,0,0,0
+AI-Enhanced Medical Diagnostics,1,0,0,0,0,0,0,0,1,0,0,0,0
+Industrial Robot Automation,1,1,0,0,0,0,0,0,0,0,0,0,0
+Crop Disease Detection Using Image Analysis,0,0,0,1,0,0,0,1,0,0,0,0,0
+Predictive Text Generation,0,0,0,0,1,0,0,1,0,0,0,0,0
+Autonomous Warehouse Management,0,0,0,0,0,1,0,0,0,0,0,1,0
+Wearable Health Monitoring Devices,0,0,0,0,1,0,0,1,0,0,0,0,0
+AI for Legal Document Analysis,0,0,0,0,1,0,0,0,0,0,0,0,1
+Financial Risk Management Using AI,0,0,1,0,0,0,0,0,0,0,1,0,0
+Food Quality Monitoring System,0,0,1,0,1,0,0,0,0,0,0,0,0
+Edge Computing for Smart Devices,0,0,1,0,0,0,0,0,0,1,0,0,0
+AI-Driven Wildlife Conservation Strategies,0,0,0,0,1,0,0,0,0,0,0,0,1
+Smart Retail Systems,0,0,0,0,0,1,0,0,1,0,0,0,0
+Automated Crater Detection System,0,0,0,0,0,0,0,1,0,1,0,0,0
+Smart Home Automation,0,0,0,1,0,0,0,0,0,0,1,0,0
+Sentiment Analysis of Social Media,0,0,0,0,0,1,0,0,0,0,1,0,0
+Climate Change Impact Prediction,0,0,0,1,1,0,0,0,0,0,0,0,0
+Blockchain-Based Voting System,0,1,0,1,0,0,0,0,0,0,0,0,0
+Disease Diagnosis using X-rays,0,0,0,1,0,0,0,1,0,0,0,0,0
+Autonomous Drone Navigation,1,0,0,1,0,0,0,0,0,0,0,0,0
+Financial Fraud Detection,0,0,0,0,0,0,1,1,0,0,0,0,0
+Virtual Reality Game Development,0,1,1,0,0,0,0,0,0,0,0,0,0
+Smart Traffic Management System,0,1,0,0,0,0,0,0,0,0,1,0,0
+Predictive Maintenance in Manufacturing,0,0,0,0,0,1,0,1,0,0,0,0,0
+Renewable Energy Forecasting,1,1,0,0,0,0,0,0,0,0,0,0,0
+Smart Agriculture Using Drones,0,0,0,0,0,0,0,0,1,1,0,0,0
+Real-Time Facial Recognition System,1,0,0,0,0,0,0,0,0,0,1,0,0
+AI-Powered Customer Support Chatbots,0,0,0,1,0,0,0,0,0,0,0,1,0
+Cybersecurity Threat Detection,0,0,0,0,0,0,0,0,0,0,0,1,1
+3D Printed Prosthetics,0,0,0,0,0,0,0,0,1,0,1,0,0
+Social Network Analysis,0,0,0,0,0,0,0,0,1,0,0,0,1
+Remote Health Monitoring System,0,0,0,1,0,0,0,0,0,0,0,1,0
+Smart Irrigation System,0,0,0,0,1,0,0,1,0,0,0,0,0
+Urban Air Quality Monitoring,0,0,0,0,0,0,0,0,0,1,0,0,1
+Autonomous Vehicle Navigation,0,1,0,0,1,0,0,0,0,0,0,0,0
+Voice-Controlled Virtual Assistant,0,1,1,0,0,0,0,0,0,0,0,0,0
+AI for Stock Market Prediction,1,0,0,1,0,0,0,0,0,0,0,0,0
+Smart Waste Management,0,0,0,0,1,1,0,0,0,0,0,0,0
+Smart Energy Grids,0,0,0,0,0,1,1,0,0,0,0,0,0
+Fire Detection and Prevention System,0,0,0,0,0,0,1,0,0,0,0,1,0
+Personalized Learning Platforms,0,0,1,0,0,0,0,1,0,0,0,0,0
+Brain-Computer Interface for Disabled,0,0,0,0,0,1,0,1,0,0,0,0,0
+Indoor Positioning System,0,0,0,0,0,0,0,1,1,0,0,0,0
+Disaster Response and Management Using AI,0,0,0,0,0,0,0,1,0,0,0,0,1
+AI-Powered Language Translation Tools,0,0,0,0,0,0,0,0,1,0,0,0,1
+Predictive Policing Models,1,0,0,0,0,0,0,0,0,0,1,0,0
+Smart Grid Cybersecurity,0,0,1,0,0,1,0,0,0,0,0,0,0
+AI-Driven Product Recommendations,0,1,0,0,0,1,0,0,0,0,0,0,0
+Forest Fire Prediction Models,0,1,0,0,0,0,0,0,0,0,0,1,0
+Real-Time Gesture Recognition,0,0,0,0,0,0,0,0,0,0,1,1,0
+Wildlife Tracking Using GPS,1,0,1,0,0,0,0,0,0,0,0,0,0
+Machine Vision for Quality Control,1,0,0,0,0,0,0,0,0,0,1,0,0
+AI-Enhanced Medical Diagnostics,0,0,0,0,0,1,0,0,1,0,0,0,0
+Industrial Robot Automation,0,1,0,0,0,0,0,0,1,0,0,0,0
+Crop Disease Detection Using Image Analysis,0,0,0,1,0,1,0,0,0,0,0,0,0
+Predictive Text Generation,0,0,0,1,0,0,0,1,0,0,0,0,0
+Autonomous Warehouse Management,0,0,0,0,0,0,0,0,1,0,1,0,0
+Wearable Health Monitoring Devices,0,0,0,0,0,0,0,0,1,0,1,0,0
+AI for Legal Document Analysis,0,0,1,0,0,0,0,0,1,0,0,0,0
+Financial Risk Management Using AI,0,0,0,0,1,0,0,0,0,0,0,0,1
+Food Quality Monitoring System,1,0,0,0,1,0,0,0,0,0,0,0,0
+Edge Computing for Smart Devices,0,0,1,0,0,0,0,1,0,0,0,0,0
+AI-Driven Wildlife Conservation Strategies,0,1,0,0,0,0,1,0,0,0,0,0,0
+Smart Retail Systems,0,0,0,1,1,0,0,0,0,0,0,0,0
+Automated Crater Detection System,0,0,0,0,0,0,0,1,0,1,0,0,0
+Smart Home Automation,0,1,1,0,0,0,0,0,0,0,0,0,0
+Sentiment Analysis of Social Media,0,0,0,1,0,0,0,1,0,0,0,0,0
+Climate Change Impact Prediction,0,0,0,0,0,0,0,1,0,0,1,0,0
+Blockchain-Based Voting System,0,0,0,0,0,0,1,0,0,0,0,1,0
+Disease Diagnosis using X-rays,0,0,0,1,1,0,0,0,0,0,0,0,0
+Autonomous Drone Navigation,0,0,1,0,0,1,0,0,0,0,0,0,0
+Financial Fraud Detection,0,0,0,1,0,0,0,0,0,0,0,0,1
+Virtual Reality Game Development,0,1,0,0,0,1,0,0,0,0,0,0,0
+Smart Traffic Management System,0,0,0,1,0,0,0,0,1,0,0,0,0
+Predictive Maintenance in Manufacturing,0,0,0,0,0,0,0,0,0,1,1,0,0
+Renewable Energy Forecasting,0,0,0,0,0,0,0,1,0,0,0,1,0
+Smart Agriculture Using Drones,0,0,0,1,0,0,0,0,0,1,0,0,0
+Real-Time Facial Recognition System,0,0,0,0,0,1,0,0,0,0,1,0,0
+AI-Powered Customer Support Chatbots,0,0,0,0,0,0,0,0,1,0,0,0,1
+Cybersecurity Threat Detection,0,0,1,0,0,0,0,0,0,0,0,1,0
+3D Printed Prosthetics,0,0,0,0,1,1,0,0,0,0,0,0,0
+Social Network Analysis,1,0,0,0,0,1,0,0,0,0,0,0,0
+Remote Health Monitoring System,0,0,0,1,0,0,0,1,0,0,0,0,0
+Smart Irrigation System,0,0,1,0,0,0,0,0,0,0,0,1,0
+Urban Air Quality Monitoring,0,0,0,0,0,0,0,0,0,0,1,0,1
+Autonomous Vehicle Navigation,0,0,0,0,0,0,0,0,0,1,0,0,1
+Voice-Controlled Virtual Assistant,1,0,1,0,0,0,0,0,0,0,0,0,0
+AI for Stock Market Prediction,1,0,0,0,0,0,0,0,1,0,0,0,0
+Smart Waste Management,0,1,0,0,0,1,0,0,0,0,0,0,0
+Smart Energy Grids,0,0,0,0,1,0,0,0,0,0,1,0,0
+Fire Detection and Prevention System,1,0,0,1,0,0,0,0,0,0,0,0,0
+Personalized Learning Platforms,0,0,0,0,0,0,1,0,0,0,1,0,0
+Brain-Computer Interface for Disabled,0,0,0,0,0,0,0,0,0,1,0,1,0
+Indoor Positioning System,0,0,0,0,0,1,0,0,0,0,0,1,0
+Disaster Response and Management Using AI,0,0,0,0,0,1,1,0,0,0,0,0,0
+AI-Powered Language Translation Tools,0,0,0,1,0,0,1,0,0,0,0,0,0
+Predictive Policing Models,0,0,1,0,0,1,0,0,0,0,0,0,0
+Smart Grid Cybersecurity,0,0,0,1,0,0,0,1,0,0,0,0,0
+AI-Driven Product Recommendations,0,0,0,0,0,0,1,0,0,0,0,1,0
+Forest Fire Prediction Models,0,0,0,0,0,0,0,1,1,0,0,0,0
+Real-Time Gesture Recognition,0,1,0,0,0,0,0,0,0,1,0,0,0
+Wildlife Tracking Using GPS,0,0,0,0,0,0,0,0,0,0,1,1,0
+Machine Vision for Quality Control,0,0,0,0,1,0,0,0,0,0,0,1,0
+AI-Enhanced Medical Diagnostics,0,0,0,0,1,0,0,0,0,1,0,0,0
+Industrial Robot Automation,0,0,1,0,0,0,0,0,1,0,0,0,0
+Crop Disease Detection Using Image Analysis,0,0,0,0,0,0,0,1,0,1,0,0,0
+Predictive Text Generation,0,0,1,0,0,0,1,0,0,0,0,0,0
+Autonomous Warehouse Management,0,0,0,0,0,0,1,0,0,0,0,0,1
+Wearable Health Monitoring Devices,0,0,0,0,0,1,0,0,0,0,0,1,0
+AI for Legal Document Analysis,0,0,0,0,0,0,0,0,0,0,1,1,0
+Financial Risk Management Using AI,1,0,0,0,0,0,0,0,1,0,0,0,0
+Food Quality Monitoring System,0,0,0,0,0,0,0,0,1,0,0,1,0
+Edge Computing for Smart Devices,0,1,0,0,0,0,0,0,0,0,1,0,0
+AI-Driven Wildlife Conservation Strategies,0,0,0,0,1,0,0,0,0,0,0,0,1
+Smart Retail Systems,0,0,0,1,0,0,0,0,1,0,0,0,0
+Automated Crater Detection System,0,0,0,0,0,0,1,0,0,0,0,0,1
+Smart Home Automation,1,1,0,0,0,0,0,0,0,0,0,0,0
+Sentiment Analysis of Social Media,1,0,0,0,0,0,1,0,0,0,0,0,0
+Climate Change Impact Prediction,1,0,0,0,0,1,0,0,0,0,0,0,0
+Blockchain-Based Voting System,0,0,0,1,0,0,0,1,0,0,0,0,0
+Disease Diagnosis using X-rays,0,0,0,0,1,0,1,0,0,0,0,0,0
+Autonomous Drone Navigation,0,0,0,0,0,1,0,0,1,0,0,0,0
+Financial Fraud Detection,1,0,0,0,0,0,0,0,1,0,0,0,0
+Virtual Reality Game Development,0,0,0,0,0,1,0,0,1,0,0,0,0
+Smart Traffic Management System,0,0,0,0,0,0,1,0,0,1,0,0,0
+Predictive Maintenance in Manufacturing,0,0,0,0,0,0,0,0,1,0,0,0,1
+Renewable Energy Forecasting,0,0,0,1,0,0,0,0,0,0,0,1,0
+Smart Agriculture Using Drones,0,0,0,0,0,0,0,0,0,1,1,0,0
+Real-Time Facial Recognition System,0,0,1,1,0,0,0,0,0,0,0,0,0
+AI-Powered Customer Support Chatbots,0,0,1,0,0,0,0,0,0,0,0,1,0
+Cybersecurity Threat Detection,0,0,0,0,0,0,1,1,0,0,0,0,0
+3D Printed Prosthetics,1,0,0,0,1,0,0,0,0,0,0,0,0
+Social Network Analysis,0,0,0,0,0,0,1,1,0,0,0,0,0
+Remote Health Monitoring System,0,0,0,0,0,0,1,0,1,0,0,0,0
+Smart Irrigation System,1,0,0,0,0,0,0,1,0,0,0,0,0
+Urban Air Quality Monitoring,0,0,0,1,0,0,0,0,1,0,0,0,0
+Autonomous Vehicle Navigation,0,0,0,0,0,0,0,0,1,0,0,1,0
+Voice-Controlled Virtual Assistant,0,0,0,0,0,0,1,0,0,1,0,0,0
+AI for Stock Market Prediction,0,0,0,0,0,0,0,0,1,0,0,1,0
+Smart Waste Management,0,0,0,0,1,0,0,0,0,0,1,0,0
+Smart Energy Grids,0,1,0,0,0,0,0,0,0,1,0,0,0
+Fire Detection and Prevention System,0,0,0,1,0,0,0,0,0,0,0,0,1
+Personalized Learning Platforms,0,0,1,0,1,0,0,0,0,0,0,0,0
+Brain-Computer Interface for Disabled,0,0,1,0,0,0,1,0,0,0,0,0,0
+Indoor Positioning System,0,0,0,0,0,1,0,0,0,1,0,0,0
+Disaster Response and Management Using AI,0,0,0,0,0,0,0,1,0,1,0,0,0
+AI-Powered Language Translation Tools,0,0,1,0,0,0,0,1,0,0,0,0,0
+Predictive Policing Models,0,0,0,0,0,0,0,1,0,0,1,0,0
+Smart Grid Cybersecurity,0,0,0,1,0,1,0,0,0,0,0,0,0
+AI-Driven Product Recommendations,0,0,1,0,0,0,0,0,0,1,0,0,0
+Forest Fire Prediction Models,0,0,0,0,0,0,1,0,0,1,0,0,0
+Real-Time Gesture Recognition,0,0,0,0,0,0,0,1,0,0,0,0,1
+Wildlife Tracking Using GPS,0,0,0,0,0,0,0,0,0,0,1,1,0
+Machine Vision for Quality Control,0,0,0,0,0,0,0,0,0,0,1,1,0
+AI-Enhanced Medical Diagnostics,0,0,0,0,0,1,0,0,1,0,0,0,0
+Industrial Robot Automation,0,0,0,0,0,0,1,0,0,0,0,1,0
+Crop Disease Detection Using Image Analysis,0,1,0,1,0,0,0,0,0,0,0,0,0
+Predictive Text Generation,0,0,1,0,1,0,0,0,0,0,0,0,0
+Autonomous Warehouse Management,0,0,1,0,1,0,0,0,0,0,0,0,0
+Wearable Health Monitoring Devices,0,0,0,0,0,1,0,1,0,0,0,0,0
+AI for Legal Document Analysis,1,0,0,0,0,0,0,0,0,0,0,1,0
+Financial Risk Management Using AI,0,0,0,0,0,0,1,1,0,0,0,0,0
+Food Quality Monitoring System,0,0,0,0,0,1,0,1,0,0,0,0,0
+Edge Computing for Smart Devices,1,0,0,0,0,0,0,0,0,0,1,0,0
+AI-Driven Wildlife Conservation Strategies,0,0,0,0,0,0,1,0,0,0,0,1,0
+Smart Retail Systems,0,0,0,0,0,0,0,0,0,0,1,0,1
+Automated Crater Detection System,0,0,0,0,0,0,1,0,0,0,0,0,1
+Smart Home Automation,0,0,0,1,0,0,0,1,0,0,0,0,0
+Sentiment Analysis of Social Media,1,0,0,1,0,0,0,0,0,0,0,0,0
+Climate Change Impact Prediction,1,0,0,0,0,0,0,0,0,0,0,0,1
+Blockchain-Based Voting System,1,0,0,0,0,0,0,1,0,0,0,0,0
+Disease Diagnosis using X-rays,0,1,0,0,0,1,0,0,0,0,0,0,0
+Autonomous Drone Navigation,0,0,0,0,0,0,0,0,0,1,0,0,1
+Financial Fraud Detection,1,0,0,0,0,0,0,0,0,0,1,0,0
+Virtual Reality Game Development,0,1,0,0,1,0,0,0,0,0,0,0,0
+Smart Traffic Management System,0,0,1,0,0,0,1,0,0,0,0,0,0
+Predictive Maintenance in Manufacturing,0,1,0,0,0,0,0,0,0,0,1,0,0
+Renewable Energy Forecasting,0,0,0,0,0,0,0,0,1,0,0,1,0
+Smart Agriculture Using Drones,0,0,0,1,0,0,0,0,1,0,0,0,0
+Real-Time Facial Recognition System,0,1,0,0,0,0,0,0,0,0,1,0,0
+AI-Powered Customer Support Chatbots,0,0,0,0,0,1,0,1,0,0,0,0,0
+Cybersecurity Threat Detection,0,0,1,0,0,0,0,0,0,0,1,0,0
+3D Printed Prosthetics,0,0,0,0,0,0,0,1,1,0,0,0,0
+Social Network Analysis,0,0,0,0,1,0,0,0,0,1,0,0,0
+Remote Health Monitoring System,0,0,0,0,0,1,0,0,0,0,1,0,0
+Smart Irrigation System,1,0,0,0,0,0,0,0,0,0,1,0,0
+Urban Air Quality Monitoring,0,0,0,0,0,1,0,0,0,0,1,0,0
+Autonomous Vehicle Navigation,0,0,0,0,1,1,0,0,0,0,0,0,0
+Voice-Controlled Virtual Assistant,1,0,0,0,0,0,0,0,0,0,1,0,0
+AI for Stock Market Prediction,0,0,0,0,0,1,0,0,1,0,0,0,0
+Smart Waste Management,0,0,0,0,1,0,0,0,0,0,0,0,1
+Smart Energy Grids,0,0,0,0,1,0,0,0,0,1,0,0,0
+Fire Detection and Prevention System,0,0,0,1,0,0,0,1,0,0,0,0,0
+Personalized Learning Platforms,1,0,0,0,0,1,0,0,0,0,0,0,0
+Brain-Computer Interface for Disabled,0,0,0,1,1,0,0,0,0,0,0,0,0
+Indoor Positioning System,0,0,0,0,0,0,1,1,0,0,0,0,0
+Disaster Response and Management Using AI,1,0,0,0,1,0,0,0,0,0,0,0,0
+AI-Powered Language Translation Tools,0,0,0,0,0,0,0,0,0,0,1,1,0
+Predictive Policing Models,0,0,0,0,0,0,0,1,0,0,1,0,0
+Smart Grid Cybersecurity,0,1,0,0,0,0,0,0,0,1,0,0,0
+AI-Driven Product Recommendations,0,1,0,0,0,0,0,0,0,0,0,0,1
+Forest Fire Prediction Models,0,0,0,0,0,0,0,1,1,0,0,0,0
+Real-Time Gesture Recognition,0,1,0,0,0,1,0,0,0,0,0,0,0
+Wildlife Tracking Using GPS,1,0,0,0,0,0,1,0,0,0,0,0,0
+Machine Vision for Quality Control,1,0,0,0,0,0,0,0,0,0,0,1,0
+AI-Enhanced Medical Diagnostics,0,0,0,0,0,0,0,0,0,1,0,1,0
+Industrial Robot Automation,0,0,1,0,1,0,0,0,0,0,0,0,0
+Crop Disease Detection Using Image Analysis,1,0,0,0,0,0,0,0,1,0,0,0,0
+Predictive Text Generation,0,0,0,0,0,0,0,0,0,0,1,1,0
+Autonomous Warehouse Management,0,0,0,1,1,0,0,0,0,0,0,0,0
+Wearable Health Monitoring Devices,1,0,0,0,0,0,0,0,0,0,0,1,0
+AI for Legal Document Analysis,0,0,1,1,0,0,0,0,0,0,0,0,0
+Financial Risk Management Using AI,0,0,0,0,0,0,1,0,0,0,0,1,0
+Food Quality Monitoring System,0,0,0,0,1,1,0,0,0,0,0,0,0
+Edge Computing for Smart Devices,0,0,0,0,1,0,0,0,1,0,0,0,0
+AI-Driven Wildlife Conservation Strategies,0,0,1,0,0,0,0,0,1,0,0,0,0
+Smart Retail Systems,0,0,1,0,0,0,0,0,0,1,0,0,0
+Automated Crater Detection System,0,0,0,0,0,0,0,1,0,0,0,0,1
+Smart Home Automation,0,0,0,0,1,0,0,0,0,1,0,0,0
+Sentiment Analysis of Social Media,0,1,1,0,0,0,0,0,0,0,0,0,0
+Climate Change Impact Prediction,0,1,0,0,0,0,0,1,0,0,0,0,0
+Blockchain-Based Voting System,1,0,0,0,0,0,0,0,1,0,0,0,0
+Disease Diagnosis using X-rays,0,1,0,0,0,0,0,0,0,0,0,1,0
+Autonomous Drone Navigation,0,0,0,0,0,0,0,0,0,0,1,0,1
+Financial Fraud Detection,0,0,0,0,1,0,0,0,0,0,0,0,1
+Virtual Reality Game Development,0,0,1,0,0,0,0,0,0,1,0,0,0
+Smart Traffic Management System,0,0,0,0,0,0,0,0,0,1,1,0,0
+Predictive Maintenance in Manufacturing,0,0,0,0,0,0,1,0,0,0,0,0,1
+Renewable Energy Forecasting,0,1,0,0,1,0,0,0,0,0,0,0,0
+Smart Agriculture Using Drones,1,0,0,1,0,0,0,0,0,0,0,0,0
+Real-Time Facial Recognition System,0,1,0,0,0,1,0,0,0,0,0,0,0
+AI-Powered Customer Support Chatbots,1,0,0,0,0,0,0,0,0,0,1,0,0
+Cybersecurity Threat Detection,1,1,0,0,0,0,0,0,0,0,0,0,0
+3D Printed Prosthetics,0,0,0,0,0,1,0,0,0,0,1,0,0
+Social Network Analysis,0,0,1,0,0,0,1,0,0,0,0,0,0
+Remote Health Monitoring System,0,0,0,0,1,1,0,0,0,0,0,0,0
+Smart Irrigation System,0,0,1,1,0,0,0,0,0,0,0,0,0
+Urban Air Quality Monitoring,0,0,0,0,0,0,0,0,0,1,0,1,0
+Autonomous Vehicle Navigation,0,0,0,0,0,0,0,0,0,1,0,0,1
+Voice-Controlled Virtual Assistant,0,0,1,0,0,0,0,0,0,1,0,0,0
+AI for Stock Market Prediction,0,0,0,0,0,1,0,0,1,0,0,0,0
+Smart Waste Management,0,0,0,0,0,0,0,1,1,0,0,0,0
+Smart Energy Grids,0,0,1,0,0,0,0,0,1,0,0,0,0
+Fire Detection and Prevention System,0,0,0,0,0,0,0,0,0,0,0,1,1
+Personalized Learning Platforms,0,0,0,0,1,0,1,0,0,0,0,0,0
+Brain-Computer Interface for Disabled,1,0,0,0,0,0,1,0,0,0,0,0,0
+Indoor Positioning System,0,0,0,0,0,0,0,0,1,0,1,0,0
+Disaster Response and Management Using AI,0,0,0,0,0,0,0,0,1,0,1,0,0
+AI-Powered Language Translation Tools,1,0,0,0,1,0,0,0,0,0,0,0,0
+Predictive Policing Models,0,0,0,0,1,0,1,0,0,0,0,0,0
+Smart Grid Cybersecurity,0,0,0,0,0,0,0,0,0,1,0,1,0
+AI-Driven Product Recommendations,1,0,0,0,0,0,0,0,0,1,0,0,0
+Forest Fire Prediction Models,0,1,0,0,0,0,0,0,0,0,0,1,0
+Real-Time Gesture Recognition,0,0,0,0,0,0,0,0,1,0,0,0,1
+Wildlife Tracking Using GPS,0,0,0,0,1,0,0,0,1,0,0,0,0
+Machine Vision for Quality Control,0,0,0,0,0,0,0,1,0,1,0,0,0
+AI-Enhanced Medical Diagnostics,0,0,0,1,0,0,0,0,0,0,0,1,0
+Industrial Robot Automation,1,1,0,0,0,0,0,0,0,0,0,0,0
+Crop Disease Detection Using Image Analysis,0,0,0,0,1,0,0,0,1,0,0,0,0
+Predictive Text Generation,0,1,0,0,0,0,1,0,0,0,0,0,0
+Autonomous Warehouse Management,0,1,0,0,0,0,1,0,0,0,0,0,0
+Wearable Health Monitoring Devices,1,0,1,0,0,0,0,0,0,0,0,0,0
+AI for Legal Document Analysis,0,0,0,0,1,0,1,0,0,0,0,0,0
+Financial Risk Management Using AI,0,0,0,0,0,1,0,1,0,0,0,0,0
+Food Quality Monitoring System,0,0,1,0,1,0,0,0,0,0,0,0,0
+Edge Computing for Smart Devices,0,0,0,1,0,0,0,1,0,0,0,0,0
+AI-Driven Wildlife Conservation Strategies,0,0,0,1,0,0,1,0,0,0,0,0,0
+Smart Retail Systems,0,0,0,0,0,1,0,0,0,0,0,0,1
+Automated Crater Detection System,0,0,0,1,0,0,0,0,0,0,0,1,0
+Smart Home Automation,0,0,0,0,0,0,0,1,0,0,0,0,1
+Sentiment Analysis of Social Media,0,0,0,0,0,0,0,0,1,0,1,0,0
+Climate Change Impact Prediction,0,0,0,1,0,0,0,0,0,0,0,1,0
+Blockchain-Based Voting System,0,0,0,0,0,1,0,0,0,0,0,0,1
+Disease Diagnosis using X-rays,0,0,0,0,0,0,0,1,0,0,1,0,0
+Autonomous Drone Navigation,0,0,0,0,0,0,0,1,0,0,0,0,1
+Financial Fraud Detection,0,0,0,0,0,0,0,0,0,1,0,0,1
+Virtual Reality Game Development,0,0,0,0,0,0,0,0,0,0,1,0,1
+Smart Traffic Management System,0,0,1,0,0,0,0,1,0,0,0,0,0
+Predictive Maintenance in Manufacturing,0,0,0,0,0,0,1,0,0,1,0,0,0
+Renewable Energy Forecasting,0,0,0,1,0,0,0,0,1,0,0,0,0
+Smart Agriculture Using Drones,1,0,0,0,0,0,0,0,0,1,0,0,0
+Real-Time Facial Recognition System,0,0,0,0,0,0,0,1,0,1,0,0,0
+AI-Powered Customer Support Chatbots,1,0,0,0,0,1,0,0,0,0,0,0,0
+Cybersecurity Threat Detection,1,0,0,1,0,0,0,0,0,0,0,0,0
+3D Printed Prosthetics,0,0,0,0,0,0,0,1,0,0,0,0,1
+Social Network Analysis,1,0,0,0,0,0,0,0,1,0,0,0,0
+Remote Health Monitoring System,0,0,0,0,0,1,0,0,0,1,0,0,0
+Smart Irrigation System,0,0,0,0,1,0,0,0,0,1,0,0,0
+Urban Air Quality Monitoring,0,0,0,0,0,0,0,0,0,1,1,0,0
+Autonomous Vehicle Navigation,0,0,0,1,0,0,0,0,0,1,0,0,0
+Voice-Controlled Virtual Assistant,0,0,0,0,0,1,0,0,0,1,0,0,0
+AI for Stock Market Prediction,1,0,0,0,0,0,1,0,0,0,0,0,0
+Smart Waste Management,0,0,0,0,0,0,0,0,1,1,0,0,0
+Smart Energy Grids,0,0,0,0,1,0,1,0,0,0,0,0,0
+Fire Detection and Prevention System,0,0,0,0,1,0,0,0,0,0,0,1,0
+Personalized Learning Platforms,0,0,0,0,0,0,0,1,0,1,0,0,0
+Brain-Computer Interface for Disabled,0,0,0,0,0,0,1,1,0,0,0,0,0
+Indoor Positioning System,0,1,0,0,0,0,0,0,0,0,0,1,0
+Disaster Response and Management Using AI,0,0,0,0,0,0,0,1,0,0,0,1,0
+AI-Powered Language Translation Tools,0,0,0,0,1,0,0,0,0,0,1,0,0
+Predictive Policing Models,0,0,1,0,1,0,0,0,0,0,0,0,0
+Smart Grid Cybersecurity,0,0,1,0,0,0,0,0,0,0,1,0,0
+AI-Driven Product Recommendations,0,0,0,0,0,0,0,0,0,1,1,0,0
+Forest Fire Prediction Models,0,0,1,0,0,0,0,0,0,1,0,0,0
+Real-Time Gesture Recognition,0,0,0,0,1,0,0,0,0,0,1,0,0
+Wildlife Tracking Using GPS,0,0,0,0,0,0,0,1,0,0,0,1,0
+Machine Vision for Quality Control,1,0,0,0,0,0,1,0,0,0,0,0,0
+AI-Enhanced Medical Diagnostics,0,0,0,0,1,1,0,0,0,0,0,0,0
+Industrial Robot Automation,1,0,0,0,0,1,0,0,0,0,0,0,0
+Crop Disease Detection Using Image Analysis,0,1,0,0,0,0,0,0,1,0,0,0,0
+Predictive Text Generation,0,0,0,0,0,1,1,0,0,0,0,0,0
+Autonomous Warehouse Management,0,1,0,1,0,0,0,0,0,0,0,0,0
+Wearable Health Monitoring Devices,0,0,0,0,0,0,0,1,0,0,0,1,0
+AI for Legal Document Analysis,0,0,0,0,0,0,0,1,0,1,0,0,0
+Financial Risk Management Using AI,0,0,0,0,1,1,0,0,0,0,0,0,0
+Food Quality Monitoring System,0,0,0,0,0,0,1,0,0,0,0,0,1
+Edge Computing for Smart Devices,0,0,0,0,0,0,0,0,1,0,1,0,0
+AI-Driven Wildlife Conservation Strategies,0,0,1,0,0,0,1,0,0,0,0,0,0
+Smart Retail Systems,0,0,0,0,0,1,0,0,0,0,0,1,0
+Automated Crater Detection System,0,0,1,0,0,0,0,0,0,0,0,0,1
+Smart Home Automation,0,0,0,0,0,0,0,1,0,1,0,0,0
+Sentiment Analysis of Social Media,0,0,0,0,1,0,1,0,0,0,0,0,0
+Climate Change Impact Prediction,0,0,1,0,0,0,1,0,0,0,0,0,0
+Blockchain-Based Voting System,0,0,0,0,0,0,1,0,0,0,0,1,0
+Disease Diagnosis using X-rays,0,0,0,0,0,0,0,1,0,0,0,0,1
+Autonomous Drone Navigation,0,1,0,0,1,0,0,0,0,0,0,0,0
+Financial Fraud Detection,0,0,0,0,0,1,0,0,0,0,1,0,0
+Virtual Reality Game Development,1,0,0,0,0,0,0,0,0,0,0,0,1
+Smart Traffic Management System,1,0,0,0,0,0,0,0,0,1,0,0,0
+Predictive Maintenance in Manufacturing,0,0,0,0,0,0,0,0,0,1,1,0,0
+Renewable Energy Forecasting,0,0,0,0,0,0,0,0,1,0,1,0,0
+Smart Agriculture Using Drones,1,0,0,0,0,0,1,0,0,0,0,0,0
+Real-Time Facial Recognition System,0,0,0,0,1,0,0,0,0,0,0,0,1
+AI-Powered Customer Support Chatbots,0,0,1,0,1,0,0,0,0,0,0,0,0
+Cybersecurity Threat Detection,0,0,0,0,0,0,0,1,0,1,0,0,0
+3D Printed Prosthetics,0,0,0,0,0,0,1,0,0,0,0,1,0
+Social Network Analysis,0,0,0,0,0,0,0,0,0,0,0,1,1
+Remote Health Monitoring System,0,0,1,1,0,0,0,0,0,0,0,0,0
+Smart Irrigation System,0,1,0,1,0,0,0,0,0,0,0,0,0
+Urban Air Quality Monitoring,0,0,0,1,0,1,0,0,0,0,0,0,0
+Autonomous Vehicle Navigation,1,0,0,0,0,0,1,0,0,0,0,0,0
+Voice-Controlled Virtual Assistant,0,0,0,0,0,0,0,1,0,1,0,0,0
+AI for Stock Market Prediction,0,0,1,0,0,0,0,0,0,0,0,1,0
+Smart Waste Management,0,0,1,0,1,0,0,0,0,0,0,0,0
+Smart Energy Grids,0,1,0,0,0,0,0,0,1,0,0,0,0
+Fire Detection and Prevention System,0,0,0,0,0,0,0,1,0,0,0,0,1
+Personalized Learning Platforms,0,0,0,0,1,0,1,0,0,0,0,0,0
+Brain-Computer Interface for Disabled,0,0,0,0,1,0,0,0,0,0,1,0,0
+Indoor Positioning System,0,1,0,0,1,0,0,0,0,0,0,0,0
+Disaster Response and Management Using AI,0,0,0,0,0,0,0,1,0,1,0,0,0
+AI-Powered Language Translation Tools,0,0,0,1,1,0,0,0,0,0,0,0,0
+Predictive Policing Models,0,1,0,0,0,0,0,0,0,0,1,0,0
+Smart Grid Cybersecurity,0,0,0,0,0,0,0,0,0,1,1,0,0
+AI-Driven Product Recommendations,0,0,0,0,0,1,0,0,0,1,0,0,0
+Forest Fire Prediction Models,0,1,0,0,0,0,0,1,0,0,0,0,0
+Real-Time Gesture Recognition,0,0,0,0,1,0,0,0,0,0,0,1,0
+Wildlife Tracking Using GPS,0,0,1,0,0,0,0,0,0,0,0,1,0
+Machine Vision for Quality Control,0,0,0,0,1,1,0,0,0,0,0,0,0
+AI-Enhanced Medical Diagnostics,0,0,0,0,0,1,0,0,1,0,0,0,0
+Industrial Robot Automation,0,0,1,0,0,0,0,0,1,0,0,0,0
