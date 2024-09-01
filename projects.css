@@ -2,38 +2,58 @@ body {
     margin: 0;
     padding: 0;
     font-family: Arial, sans-serif;
-    background-color: #121212; /* Dark background */
-    color: #fff;
+    background-color: #f3e4fa; /* Dark background */
+    color: #343434;
 }
 
 .navbar {
     display: flex;
     justify-content: space-between;
     align-items: center;
-    padding: 10px 20px;
-    background-color: #1C1C1C;
+    padding: 10px 10px;
+    background-color:   #aa02c8;
 }
+.header{
+    position: fixed;
+    font-family: "Open Sans", sans-serif, Inter;
+    top: 0;
+    left: 0;
+    width: 100%;
+    padding: 10px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: #aa02c8;
 
-.logo img {
-    height: 40px;
-    margin-right: 10px;
 }
-
-.logo span {
-    font-size: 24px;
-    font-weight: bold;
-}
-
-nav a {
-    margin-left: 20px;
+.name{
+    font-size: 30px;
+    color: rgb(228, 179, 209);
+    font-weight: 800;
+    float:inline-start;
     text-decoration: none;
-    color: #fff;
-    font-size: 18px;
+}
+.navbar a{
+    font-size: 23px;
+    display: inline-flex;
+    color: rgb(255, 231, 238);
+    text-decoration: none;
+    margin-right: 35px;
+    transition: .2s;
+    font-weight: 500;
+    padding-top: 0px;
+    padding-inline-end: 15px;
+    
+}
+.navbar a:hover,.navbar a.active
+{
+    color: rgb(129, 48, 183);
 }
 
 .search-section {
-    padding: 20px;
-    background-color: #1C1C1C;
+    padding: 100px;
+    padding-bottom: 20px;
+    background-color: #c093df;
     display: flex;
     flex-direction: column; /* Arrange items vertically */
     gap: 15px;
@@ -94,7 +114,7 @@ nav a {
     padding: 10px;
     width: 150px;
     background-color: transparent;
-    color: #fff;
+    color: #434242;
     border: 1px solid #ccc; /* Light grey border */
     border-radius: 5px;
     appearance: none;
@@ -122,14 +142,20 @@ nav a {
 .card {
     width: 200px;
     padding: 20px;
-    background-color: #2A2A2A;
-    border-radius: 10px;
-    text-align: center;
+    background-color: #f3e4fa;
+    border: 1px solid gray;  /* Thin (1px), solid style, gray color */
+    border-radius: 10px;     /* Rounded corners with a radius of 10px */
+    padding: 10px;           /* Optional: Adds some space inside the element */
+    
+    
     transition: transform 0.3s ease;
 }
 
 .card:hover {
-    transform: scale(1.1);
+    transform: scale(1.2);
+    border-radius: 10px;
+    background-color:#c093df;
+    border-color: transparent;
     cursor: pointer;
 }
 

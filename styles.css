@@ -1,5 +1,9 @@
+html {
+    scroll-behavior: smooth; /* Enables smooth scrolling */
+}
 .header{
     position: fixed;
+    font-family: "Open Sans", sans-serif, Inter;
     top: 0;
     left: 0;
     width: 100%;
@@ -32,27 +36,62 @@
 {
     color: #c15efb;
 }
-/* Apply a full-page background image */
-body {
+
+body section#homepage{
     margin: 0;
     padding: 0;
-    font: 1em Open Hans;
+    font-family: "Open Sans", sans-serif, Inter;
     height: 100vh;
-    background-image: url('bgimage.png'); /* Replace with your image path */
+    background-image: url('bgimage.png'); 
     background-size: cover;
+    background-repeat: no-repeat;
     background-position: center;
     display: flex;
     justify-content: center;
     align-items: center;
+
 }
 
-.container {
+form{
+    align-items: center;
+}
+
+
+
+section :nth-child(2) button{
+    padding: 10px 20px;
+    font-size: 16px;
+    cursor: pointer;
+    border: none;
+    border-radius: 5px;
+    background-color: #4285F4;
+    color: #fff;
+    transition: background-color 0.3s;
+}
+.eye-icon::before {
+    content: '\f06e'; /* FontAwesome icon code for eye */
+    font-family: 'FontAwesome';
+}
+
+section :nth-child(1) {
     text-align: center;
     height: 50%;
-    position: absolute;
     bottom: 0;
     color: #fefefe;
-    transform:translateY(300px);
+    transform:translateY(500px);    
+}
+.login-form {
+    transform: translateY(300px); 
+    flex-direction: column;
+    align-items: center;
+    margin-top: 20px;
+}
+
+.login-form input {
+    margin-bottom: 10px;
+    padding: 10px;
+    width: 100%;
+    max-width: 300px;
 }
 
 .login-btn {
@@ -60,24 +99,30 @@ body {
     width: 200px;
     height: 60px;
     font-size: 26px;
-    color: #070000;
     background-color: #ffffff; /* Button color */
     border: none;
     border-radius: 20px;
     cursor: pointer;
-    margin-bottom: 10px; /* Space between button and link */
+    margin-bottom: 25px; /* Space between button and link */
     transition: background-color 0.3s ease;
 }
 
-.login-btn:hover {
+#loginbtn{
+    color: #000;
+    text-decoration: none;
+}
+
+#loginbtn:hover{
     background-color:transparent;
-    color: rgb(144, 35, 253); /* Darker shade on hover */
+    color: #ab04ff;
     border: #c15efb 2px solid;
 }
 
+
+
 .signup-text {
-    margin: 0;
-    font-size: 30px;
+    margin: 25px;
+    font-size: 25px;
 }
 
 .signup-text a {
@@ -87,4 +132,55 @@ body {
 
 .signup-text a:hover {
     color: #ddd; /* Color for the sign-up link on hover */
+}
+form {
+    display: flex;
+    flex-direction: column;
+    gap: 16px;
+    transform: translateY(100px);
+}
+
+input[type="email"],
+input[type="password"] {
+    width: 100%;
+    padding: 10px;
+    background-color: transparent; /* Making the input fields transparent */
+    border: 1px solid #d3d3d3; /* Light grey thin border */
+    border-radius: 4px;
+    font-size: 14px;
+    color: #000;
+    box-sizing: border-box;
+}
+
+input[type="email"]::placeholder,
+input[type="password"]::placeholder {
+    color: #000; /* Placeholder text color */
+}
+
+input[type="email"]:focus::placeholder,
+input[type="password"]:focus::placeholder {
+    color: transparent; /* Placeholder disappears when focused */
+}
+
+.forgot-password {
+    font-size: 12px;
+    color: #000;
+    text-align: right;
+    text-decoration: none;
+}
+
+
+.login-btn a{
+    text-decoration: none;
+    color: #000;
+}
+
+.signup {
+    margin-top: 20px;
+    font-size: 12px;
+}
+
+.signup a {
+    color: #000;
+    text-decoration: none;
 }
