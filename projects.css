@@ -54,6 +54,7 @@ body {
     padding: 100px;
     padding-bottom: 20px;
     background-color: #c093df;
+    position: fixed;
     display: flex;
     flex-direction: column; /* Arrange items vertically */
     gap: 15px;
