@@ -85,7 +85,7 @@ def predict():
     final_features = [np.array(int_features)]
 
     prediction = model.predict(final_features)
-    output = prediction[:]
+    output = [prediction[0], prediction[1]]
     
 
     array_length = len(output)
@@ -93,7 +93,7 @@ def predict():
     
 
     if request.method == 'POST':
-     return render_template('project.html', prediction ='Prediction:{}'.format(output))
+         return render_template('project.html', prediction ='Prediction:{}'.format(output))
 
 
 
