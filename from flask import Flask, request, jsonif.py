@@ -87,12 +87,14 @@ def predict():
     prediction = model.predict(final_features)
     output = prediction[:] 
 
-    return render_template('project.html', prediction_texts ='Prediction:{}'.format(output))
-
-@app.route('/')
-def home():
     array_length = len(output)
     return render_template('projects.html', items=items, array_length=array_length)
+    
+
+    if request.method == 'POST':
+     return render_template('project.html', prediction_texts ='Prediction:{}'.format(output))
+
+
 
 if __name__ == "_main__":
     app.run(debug=True)
