@@ -51,7 +51,8 @@ def predict():
         "option13": "3D Modelling"
     }
 
-    front_array = {key: options_map.get(value, "Unknown Tag") for key, value in selected_values.items()}
+    front_array = [options_map.get(value, "Unknown Tag") for value in selected_values]
+
 
     
     int_features = vectorize(front_array)
