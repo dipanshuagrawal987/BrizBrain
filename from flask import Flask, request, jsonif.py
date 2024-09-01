@@ -35,7 +35,7 @@ app = Flask(__name__)
 
 @app.route('/')
 def home():
-    return render_template('project.html')
+    return render_template('projects.html')
 
 @app.route('/predict',  methods=['POST'])
 def predict():
@@ -95,7 +95,7 @@ def predict():
     if request.method == 'POST':
         output1= prediction[0]
         output2= prediction[1]
-        return render_template('project.html', output1=project1, output2=project2)
+        return render_template('projects.html', output1=project1, output2=project2)
 
 
 
