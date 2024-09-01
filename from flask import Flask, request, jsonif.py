@@ -93,7 +93,9 @@ def predict():
     
 
     if request.method == 'POST':
-         return render_template('project.html', prediction ='Prediction:{}'.format(output))
+        output1= prediction[0]
+        output2= prediction[1]
+        return render_template('project.html', output1=project1, output2=project2)
 
 
 
