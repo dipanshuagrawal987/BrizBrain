@@ -2,6 +2,32 @@ from flask import Flask, request, jsonify, render_template
 import pickle 
 import numpy as np
 
+class KNN:
+    
+    def __init__(self):
+        self.distance = None
+        self.vector_pata_hai = None
+        self.vector_ke_result = None
+        self.hamara_vector = None
+
+    def fit(self, x_train, y_train):
+        self.vector_pata_hai = np.array(x_train)
+        self.vector_ke_result = np.array(y_train) 
+
+    def predict(self, test):
+        self.hamara_vector = np.array(test)
+        distance_vector = self.vector_pata_hai - self.hamara_vector
+        distance = np.sum(distance_vector**2, axis=1)
+        self.distance = np.sqrt(distance)
+        minimum = self.distance.min()
+
+        output = []
+        for index, dist in enumerate(self.distance):
+            if dist == minimum:
+                output.append(self.vector_ke_result[index])  # Index correctly
+
+        return np.array(output)  # Convert output list to numpy array
+
 model_path='knn_model.pkl'
 with open(model_path,'rb') as file:
     model = pickle.load(file) 
@@ -62,6 +88,11 @@ def predict():
     output = prediction[:] 
 
     return render_template('project.html', prediction_texts ='Prediction:{}'.format(output))
+
+@app.route('/')
+def home():
+    array_length = len(output)
+    return render_template('projects.html', items=items, array_length=array_length)
 
 if __name__ == "_main__":
     app.run(debug=True)
