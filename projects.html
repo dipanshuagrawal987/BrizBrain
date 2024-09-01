@@ -120,20 +120,29 @@
     </div>
 
     <section class="carousel-section">
-        <h2>Top Projects for You</h2>
+        <h2>Top Projects for You-1</h2>
         <div class="carousel">
-            <div id="C1" class="card">
-                <h3>Robotics</h3>
-                <p>Drone automation...</p>
-                <a href="readmore.html">Read More</a>
+            
+            <div id="{{project1.id}}"class="card">
+                <h3>"{{ project1.title }}"</h3>
+                <p>{{ project1.description }}</p>
+                <a href="{{ project.link }}">Read More</a>
             </div>
-            <div id="C2" class="card">
-                <h3>Advance AI/ML</h3>
-                <p>description article about AI/ML advancements more...</p>
-                <a href="#">Read More</a>
-            </div>
-            <!-- Add more cards as needed -->
+            
         </div>
+       </section> 
+       <section class="carousel-section">
+        <h2>Top Projects for You-2 </h2>
+        <div class="carousel">
+            
+            <div id="{{ project2.id }}" class="card">
+                <h3>{{ project2.title }}</h3>
+                <p>{{ project2.description }}</p>
+                <a href="{{ project.link }}">Read More</a>
+            </div>
+            
+        </div>
+    </section>
 
         <h2>Top professors in your field</h2>
         <div class="carousel">
